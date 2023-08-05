@@ -24,4 +24,4 @@ To disable Orion's content blocking:
 
 We recommend leaving Orion's tracking protection **on**. It uses WebKit's machine-learning-based technology and complements uBlock Origin to provide the best overall protection.
 
-You can then install the uBlock Origin extension for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) in Orion.
+You can then install the uBlock Origin extension for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) or https://github.com/gorhill/uBlock/releases then open the extensions menu then push install from disk by clicking add extension. ![Screenshot 2023-08-05 at 13 02 12](https://github.com/kagisearch/kagi-docs/assets/82477557/2827a814-dff9-4b4b-8da9-83fdb43b7915)
